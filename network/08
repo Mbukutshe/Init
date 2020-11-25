@@ -1,0 +1,4 @@
+# whois slash16.org | grep 'Name Server' | sed '1!d'
+# Name Server: ns-144.awsdns-18.com
+
+AMAZON WEB SERVICES
