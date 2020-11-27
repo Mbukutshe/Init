@@ -1,0 +1,1 @@
+iptables -L / -A INPUT -s 127.0.0.1/8 -j ACCCEPT

@@ -1,0 +1,7 @@
+->sudo apt-get install openssh-server
+->suystemctl restart sshd
+->navigate to vm settings
+->network -> advanced -> port forwarding
+->add rule with host and guess ip address
+
+ssh -p 22 user@127.0.0.1

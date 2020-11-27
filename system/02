@@ -1,0 +1,4 @@
+#sudo nano/etc/hostname
+#edit and save 
+
+hostname username
