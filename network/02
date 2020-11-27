@@ -1,1 +1,3 @@
 ifconfig en1 | awk '/broadcast/{print $6}'
+Ifdata -pb en1
+Ip a show en1 | grep ‘brd[0-9]’ | awk ‘(print $4)’
