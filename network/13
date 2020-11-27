@@ -1,3 +1,6 @@
 #hostname
 
 c4r24s4.wethinkcode.co.za
+
+#nslookup ipaddress
+#name-> will have hostname
